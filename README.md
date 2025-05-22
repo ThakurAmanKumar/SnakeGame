@@ -16,7 +16,7 @@ Eat the red food to grow longer and increase your score. Avoid hitting the walls
 ## Live Link
 
 Check out the project on GitHub:  
-🔗 [https://github.com/ThakurAmanKumar/SnakeGame](https://github.com/ThakurAmanKumar/SnakeGame)
+🔗 [https://snake-game-iota-lemon.vercel.app](https://snake-game-iota-lemon.vercel.app)
 
 ---
 
